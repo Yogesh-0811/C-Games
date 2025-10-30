@@ -1,1 +1,5 @@
-.env
+*.exe
+*.o
+*.out
+/build/
+/.vscode/
